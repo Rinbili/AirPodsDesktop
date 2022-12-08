@@ -68,6 +68,7 @@ enum class Model : uint32_t {
     AirPods_2,
     AirPods_3,
     AirPods_Pro,
+    AirPods_Pro_2,
     AirPods_Max,
     Powerbeats_3,
     Beats_X,
